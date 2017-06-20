@@ -336,7 +336,7 @@ corresponde aos interesses individuais, e com eles se confundem. Não
 há pois nada de estranho que os indivíduos espontaneamente pautem
 seus atos por aquele interesse coletivo. E uma vez obtido o consenso
 geral da coletividade no que se refere à determinação e definição
-desse interesse, é possível e é mesmo conseqüência natural a
+desse interesse, é possível e é mesmo consequência natural a
 cooperação de todos na consecução de um mesmo fim, que é aquele
 interesse coletivo que, em última
 instância, objetiva o interesse do indivíduo. Este agirá estimulado
@@ -608,7 +608,7 @@ pública. E se as alegações apresentadas pelos reclamantes tiverem
 procedência e encontrarem eco na opinião pública, as modificações não
 se farão esperar. É aliás o que ocorreu recentemente na União
 Soviética, com relação precisamente aos acadêmicos, que tiveram, em
-conseqüência de largo debate sobre o assunto, seus vencimentos
+consequência de largo debate sobre o assunto, seus vencimentos
 reduzidos.
 
 \* Dados de 1960.
@@ -688,7 +688,7 @@ deverá ser necessariamente excluída, Em que fica então a sua
 É precisamente isso que ocorre no regime burguês. As coisas são
 organizadas e dispostas de tal modo, à revelia do indivíduo, que,
 embora se lhe assegure a liberdade de escolha, essa escolha já se
-encontra predeterminada pelas conseqüências inaceitáveis para ele
+encontra predeterminada pelas consequências inaceitáveis para ele
 que decorrem da adoção de uma alternativa que vai de encontro ao
 estabelecido numa ordem social predisposta por interesses
 particularistas. O indivíduo nem sempre é perfeitamente consciente
@@ -787,7 +787,7 @@ vigilância policial apreciável. Certamente muito menos que em qualquer país c
 agentes aduaneiros e guardas nos aeroportos de entrada e saída do país
 (porque nos outros nem isso observei), não vi na União Soviética e
 China Popular mais que inspetores de trânsito. Sendo que na China
-esses inspetores são freqüentemente jovens sem o menor constrangimento
+esses inspetores são frequentemente jovens sem o menor constrangimento
 por toda parte, e nem mesmo a minha presença inconfundível de estrangeiro foi jamais especialmente notada.
 
 A esses sinais externos e diretamente perceptíveis da liberdade que
@@ -853,7 +853,7 @@ prática, a cooperação ativa e não raro entusiástica de todos.
 
 É claro que, em circunstâncias como essas não faltam a ninguém
 oportunidades as mais amplas para a manifestação e expressão de suas
-idéias próprias. Tanto oralmente (nas reuniões de toda espécie de
+ideias próprias. Tanto oralmente (nas reuniões de toda espécie de
 organizações a que, em grande número, sempre pertence qualquer
 cidadão socialista, ou a maioria deles), como por escrito, todo
 mundo encontra sempre ocasião para se externar. A imprensa tem ar
@@ -861,7 +861,7 @@ naturalmente um grande papel. Uma imprensa de tipo bem diferente
 daquela que se encontra nos países capitalistas onde ela é
 geralmente constituída, como não se ignora, de grupos fechados de
 jornalistas profissionais que interpretam a seu modo, quando
-interpretam (porque freqüentemente se limitam a reproduzir o que lhe
+interpretam (porque frequentemente se limitam a reproduzir o que lhe
 é ditado), as opiniões dos reduzidos círculos de interesses a que se
 acham direta ou indiretamente ligados e subordinados. Bem diferente
 disso, está-se realizando nos países socialistas a velha aspiração de
@@ -878,7 +878,7 @@ periódicos editados pelo pessoal das empresas, escritórios,
 repartições públicas, estabelecimentos de ensino, etc. Todas as
 organizações de certo vulto editam o seu jornal. Ainda há os jornais
 murais, datilografados ou mesmo simplesmente manuscritos que se
-afixam nas dependências mais freqüentadas das organizações: oficinas,
+afixam nas dependências mais frequentadas das organizações: oficinas,
 escritórios centrais das cooperativas agrícolas, escolas,
 hospitais... Há em Moscou mais de 30 000 desses jornais murais que se
 editam todas as semanas ou todos os dez ou quinze dias. Quem visita
@@ -921,7 +921,7 @@ caso, contudo, o constrangimento partiria dessa repulsa, e não especificamente 
 Seria naturalmente assim para quem pretendesse divergir das
 instituições sociais e políticas fundamentais do regime. Esses
 naturalmente estariam impedidos de se manifestar. É essa aliás uma
-alegação que freqüentemente se faz contra o regime socialista nos
+alegação que frequentemente se faz contra o regime socialista nos
 países capitalistas. Enquanto nestes últimos nos democraticamente
 organizados pelo menos – é possível à crítica do capitalismo e suas
 instituições, o mesmo não ocorre nos países socialistas relativamente
@@ -933,7 +933,7 @@ não fosse. O restabelecimento do capitalismo e da propriedade
 privada dos meios de produção significaria a entrega da terra, das
 fábricas, das minas, de todo aparelhamento produtivo a particulares,
 para que o explorassem em proveito próprio. É por isso concebível, e
-poderia ser uma tal idéia aceita, mesmo para simples debate, pela
+poderia ser uma tal ideia aceita, mesmo para simples debate, pela
 grande maioria dos cidadãos, a sua quase totalidade que naturalmente
 não poderia ser contemplada naquela redistribuição da propriedade
 privada? Para as novas gerações educadas e formadas no socialismo,
@@ -989,7 +989,7 @@ a vida traz à complementação dos dotes naturais que o indivíduo já
 traz do berço, depende das oportunidades com que ele se depara no
 curso de sua existência. Ora, essas oportunidades, escusado dizê-lo,
 são na mais perfeita e pura democracia burguesa muito desigualmente
-distribuídas. E é assim necessariamente, e não em conseqüência de
+distribuídas. E é assim necessariamente, e não em consequência de
 vícios sanáveis, porque a estrutura de classes que é da essência do
 capitalismo assim dispõe as coisas. Não é possível, por mais que se
 aprimorem as instituições democráticas dos países capitalistas,
@@ -1008,7 +1008,7 @@ principal fonte da desigual distribuição de oportunidade entre os
 indivíduos, a saber, a separação deles em proprietários e não
 proprietários dos meios de
 produção, ou antes do capital com que se comanda esses meios. Não
-existem também, como conseqüência disso, tipos diferentes de
+existem também, como consequência disso, tipos diferentes de
 educação e instrução. A escola primária, pela qual passam hoje, sem
 exceção, todas as crianças dos países socialistas, é a mesma e uma
 só para todo o mundo. Quanto à instrução secundária, ela já alcança,
@@ -1018,7 +1018,7 @@ totalidade da população adulta. Não haverá mais assim diferença na
 instrução fundamental dos cidadãos soviéticos. Todos terão uma base
 intelectual e cultural idêntica.
 
-No que se refere aos meios sociais que o cidadão soviético freqüenta,
+No que se refere aos meios sociais que o cidadão soviético frequenta,
 também não há diferença essenciais. Os bairros residenciais não se
 discriminam por categorias sociais, nem tampouco as organizações e
 associações culturais, recreativas e desportivas. Assim as relações
@@ -1052,7 +1052,7 @@ mais modesta certamente, mas nem por isso menos importante para ele,
 de livremente escolher, dentro de sua capacidade e aptidões, o
 emprego que mais lhe agrada e convém? Ou será ele, ao contrário do
 que se passa nas democracias burguesas, e como os adversários do
-socialismo freqüentemente alegam, adstrito a certas tarefas e locais
+socialismo frequentemente alegam, adstrito a certas tarefas e locais
 de trabalho de que não se pode afastar se não por consentimento
 superior?
 
@@ -1071,7 +1071,7 @@ diferença; essa certamente em favor do trabalhador dos países
 socialistas. No capitalismo, quem depende de um emprego para se manter, acha-se em regra sempre solicitado por dois impulsos
 contraditórios que lhe atribulam a vida e o enchem de preocupações: de
 um lado, a vontade de permanecer no emprego que ocupa, e o temor do
-risco inerente a toda mudança, com a perda conseqüente, sem
+risco inerente a toda mudança, com a perda consequente, sem
 compensação apreciável, das eventuais vantagens adquiridas. E de
 outro lado se acha a esperança de encontrar algo melhor.
 
@@ -1102,7 +1102,7 @@ obstáculo ou constrangimento algum. A alegação da falta de liberdade
 religiosa nos países socialistas encontra sua principal aparência de
 verdade, mas falsa aparência apenas, no fato de que a filosofia
 generalizada mente aceita naqueles países, e que orienta sua cultura
-e vida política e social, é materialista, e dispensa a idéia de Deus e a crença em
+e vida política e social, é materialista, e dispensa a ideia de Deus e a crença em
 quaisquer outras entidades ou forças sobrenaturais na interpretação
 do mundo e na elaboração das normas de conduta humana.
 
@@ -1277,7 +1277,7 @@ Formado em 1928 pela Faculdade de Direito, hoje incorporada à
 Universidade de São Paulo, obteve nela, em 1956, a Livre Docência com
 a sua tese *Diretrizes para uma política econômica brasileira.*
 
-Deputado estadual em 1947, teve seu mandato cassado em conseqüência do
+Deputado estadual em 1947, teve seu mandato cassado em consequência do
 cancelamento do registro do Partido Comunista do Brasil pelo qual se
 elegera.
 
